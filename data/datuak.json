@@ -1,0 +1,30 @@
+{
+    "id" : 1,
+    "name" : ["Aloña","Gorgomendi"],
+    "sierra" : "Aloña",
+    "alt" : 1244,
+    "provincia" : "Gipuzkoa",
+    "loc" : "Oñati",
+    "lat" : 42.999075,
+    "long" : 2.399514,
+    "acceso" : ,
+    "descripcion" : "Aloña mendi",
+    "rutas" : [
+            {
+                "id" : 1,
+                "name" : "urtiagain-aloña",
+                "provincia" : "Gipuzkoa",
+                "loc" : "Oñati",
+                "info" : "Urtiagainetik hasi eta Aloñara",
+                "duracion" : "2:45",
+                "dificultad" : 2,
+                "desnivel" : 729,
+                "distancia" : 10,
+                "img" : ,
+                "video" : ,
+
+            }
+        ],
+    "img" : [],
+    "video" : []
+}
